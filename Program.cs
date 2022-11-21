@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Please enter a number to display a number");
+﻿Console.WriteLine("Please enter a number to display a number list");
 int number = int.Parse(Console.ReadLine());
 while(number > 1)
 {
@@ -9,7 +9,7 @@ while(number > 1)
         }
         else
         {
-            number = number * 3 + 1;
+            number = number * 3 + 1; // for odd numbers
             Console.WriteLine(number);
         }
 }
