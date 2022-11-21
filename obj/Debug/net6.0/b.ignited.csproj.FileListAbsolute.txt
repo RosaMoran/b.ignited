@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\b.ignited\bin\Debug\net6.0\b.ignited.exe
+C:\Users\student\Desktop\b.ignited\bin\Debug\net6.0\b.ignited.deps.json
+C:\Users\student\Desktop\b.ignited\bin\Debug\net6.0\b.ignited.runtimeconfig.json
+C:\Users\student\Desktop\b.ignited\bin\Debug\net6.0\b.ignited.dll
+C:\Users\student\Desktop\b.ignited\bin\Debug\net6.0\b.ignited.pdb
+C:\Users\student\Desktop\b.ignited\obj\Debug\net6.0\b.ignited.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\b.ignited\obj\Debug\net6.0\b.ignited.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\b.ignited\obj\Debug\net6.0\b.ignited.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\b.ignited\obj\Debug\net6.0\b.ignited.AssemblyInfo.cs
+C:\Users\student\Desktop\b.ignited\obj\Debug\net6.0\b.ignited.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\b.ignited\obj\Debug\net6.0\b.ignited.dll
+C:\Users\student\Desktop\b.ignited\obj\Debug\net6.0\refint\b.ignited.dll
+C:\Users\student\Desktop\b.ignited\obj\Debug\net6.0\b.ignited.pdb
+C:\Users\student\Desktop\b.ignited\obj\Debug\net6.0\b.ignited.genruntimeconfig.cache
+C:\Users\student\Desktop\b.ignited\obj\Debug\net6.0\ref\b.ignited.dll
